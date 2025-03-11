@@ -40,12 +40,13 @@ The `/doc` folder contains a PDF with:
 
 ## Usage
 - See `coefficients_trimer.py` and `convergence_trimer.py`for examples.
+- For me, when using VSCode, I needed `"python.analysis.autoSearchPaths": true, "python.analysis.extraPaths": ["../../src"]`in my `settings.json` file in the `.vscode` folder.
 
 ## Requirements
 - See `requirements.txt`.
 
 ## Citation
-If you use this work, please cite it using the following DOI: 10.5281/zenodo.14989444
+If you use this work, please cite it using the following DOI: 10.5281/zenodo.15005364
 
 
 ## Contact

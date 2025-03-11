@@ -1,7 +1,0 @@
-{
-    "python.analysis.autoSearchPaths": true,
-    "python.analysis.extraPaths": [
-        "../../src"
-    ],
-    "python.createEnvironment.contentButton": "show"
-}
